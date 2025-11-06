@@ -44,4 +44,4 @@ Tüm bilgiler, yerel bir **SQLite veritabanında (`portfolio.db`)** güvenli şe
 ## ⚙️ Kurulum
 1. Bu projeyi klonla:
    ```bash
-   git clone https://github.com/<kullanıcı-adın>/portfolio-bot.git
+   git clone https://github.com/arialperen456-dotcom/simbulamadm.git
