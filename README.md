@@ -45,3 +45,15 @@ Tüm bilgiler, yerel bir **SQLite veritabanında (`portfolio.db`)** güvenli şe
 1. Bu projeyi klonla:
    ```bash
    git clone https://github.com/arialperen456-dotcom/simbulamadm.git
+
+
+👤 Geliştirici
+
+Alperen Arı
+💬 Discord: thedoctoralp
+📧 Mail: ari.alperen@hotmail.com
+
+🏁 Lisans
+
+Bu proje, kişisel ve eğitim amaçlı olarak paylaşılmıştır.
+Kodunuzu geliştirip paylaşmaktan çekinmeyin! 💖
